@@ -17,6 +17,5 @@ vector<int> solution(const vector<int> arr, int k) {
         }
         
     }
-    return answer;
-    ;
+    return answer;;
 }
